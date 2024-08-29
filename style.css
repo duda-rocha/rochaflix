@@ -1,0 +1,36 @@
+body {
+    color: red;
+    background: rgb(175, 2, 2);
+    margin: 0px;
+    font-family: "New Amsterdam", sans-serif;
+
+}
+
+header {
+    border-bottom: solid 4px red
+    padding: 20px;
+    font-size: 32px;
+    color: red
+}
+
+
+section {
+    background: rgb(8, 8, 8);
+    padding-bottom: 80px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+h1{
+
+    font-size: 40px;
+    font-family: "Barlow";
+}
+
+p{
+font-size: 25px;
+
+}
+img {
+    height:200px;
+}
